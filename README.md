@@ -22,9 +22,9 @@ My favorites languages are JavaScript and CSS :)
 
 ## Socials:
 
-- Twitter: @ttackOnNeko
-- Discord: Sotoka-Chan#1111
-- YouTube: ttackOnNeko
+- Twitter: @neekonee_
+- Discord: Loisu#4816
+- YouTube: ゆめみ。\ Yumemi.
 
 ```javascript
 return;
